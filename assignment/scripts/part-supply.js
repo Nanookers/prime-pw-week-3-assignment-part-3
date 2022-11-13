@@ -57,8 +57,6 @@ for( supply of supplyChanges){
     console.log(`supply changed by ${supply}`);
 }
 
-
-
 // 8. Write a loop to determine the total number of parts available by
 //    adding up all the numbers  in the 'supplyChanges' array.
 console.log('8. Total supplies available is:');
